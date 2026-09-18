@@ -1,0 +1,40 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+test-results/
+.explore_*.png
+# Virtual environment
+.venv/
+.venv1/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Playwright
+test-results/
+
+# Reports generated during execution
+# Uncomment if you DON'T want reports committed
+# reports/*.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment/secrets
+.env
+
+# Python packaging
+*.egg-info/
+dist/
+build/
