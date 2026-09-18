@@ -20,7 +20,7 @@ The single test scenario:
 6. **Logout**, and confirm the session was invalidated (a protected page
    redirects back to the login screen).
 
-## Framework structure
+## Framework Structure
 
 ```
 Orange-automation/
